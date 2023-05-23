@@ -1,0 +1,18 @@
+.contactItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contactItem:not(:last-child) {
+  margin-bottom: 10px;
+}
+.contactName {
+  margin: 0;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.deleteBtn {
+  padding: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}

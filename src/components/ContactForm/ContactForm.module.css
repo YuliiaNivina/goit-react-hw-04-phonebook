@@ -1,0 +1,20 @@
+.contactForm {
+  width: 400px;
+  padding: 15px;
+  border: 1px solid black;
+  background-color: rgba(128, 128, 128, 0.217);
+}
+.contactLabel {
+  display: grid;
+  font-size: 20px;
+}
+.contactInput {
+  margin: 10px 0 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+.contactBtn {
+  padding: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
